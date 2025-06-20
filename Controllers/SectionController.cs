@@ -13,7 +13,7 @@ namespace SchoolManageSystem.Controllers
     internal class SectionController
     {
         //private readonly SectionService _sectionService;
-
+        //new onethis
         public SectionController()
         {
             //_sectionService = new SectionService();
