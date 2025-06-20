@@ -16,7 +16,7 @@ namespace SchoolManageSystem.Controllers
         //new onethis
         public SectionController()
         {
-            //_sectionService = new SectionService();
+            //_sectionService = new SectionService();//hi loki
         }
 
         //public List<Section> GetAllSections() => _sectionService.GetAll();
